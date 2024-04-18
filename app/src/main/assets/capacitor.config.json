@@ -1,0 +1,6 @@
+{
+	"appId": "com.montagab.app",
+	"appName": "Montagab",
+	"webDir": "out",
+	"bundledWebRuntime": false
+}
